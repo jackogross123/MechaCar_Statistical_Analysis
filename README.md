@@ -10,7 +10,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
  
 ## Deliverable 1 - Linear Regression to Predict MPG
 
-![Deliverable_One_LM.PNG](https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/Deliverable_One_LM.PNG)
+![Deliverable_One_LM.PNG](https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/deliverable1.png)
 
 The linear regression model above estimates that: 
 
@@ -20,10 +20,10 @@ The linear regression model above estimates that:
 ## Deliverable 2 - Summary Statistics on Suspension Coils
 
 
-<img src="https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/total_summary.PNG" width="600" >
+<img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png" width="600" >
 
 
-<img src="https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.PNG" width="600" >
+<img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png" width="600" >
 
 
 <img src="https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/box_plot.PNG" width="600" >
@@ -32,22 +32,22 @@ The linear regression model above estimates that:
 
 
 
-<img src="https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/t_test_one.PNG" width="600" >
+<img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/first_t_test.png" width="600" >
 
 
 ### Lot 1 T-Test
 
-<img src="https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/t_test_two.PNG" width="600" >
+<img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_1.png" width="600" >
 
 
 ### Lot 2 T-Test
 
-<img src="https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/t_test_three.PNG" width="600" >
+<img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_2.png" width="600" >
 
 
 ### Lot 3 T-Test
 
-<img src="https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/t_test_four.PNG" width="600" >
+<img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_3.png" width="600" >
 
 
 ## Deliverable 4 - Study Design: MechaCar vs Competition
