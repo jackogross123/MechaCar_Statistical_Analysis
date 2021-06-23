@@ -26,8 +26,6 @@ The linear regression model above estimates that:
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png" width="600" >
 
 
-<img src="https://github.com/dwwatson1/MechaCar_Statistical_Analysis/blob/main/images/box_plot.PNG" width="600" >
-
 ## Deliverable 3 - T-Tests on Suspension Coils
 
 
