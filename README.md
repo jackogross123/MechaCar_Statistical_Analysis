@@ -23,7 +23,6 @@ mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (
 
 ## Deliverable 2 - Summary Statistics on Suspension Coils
 
-
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png" width="600" >
 
 Lot 3 has high amount of variance which means that the data is very spread out.
@@ -33,29 +32,34 @@ Lot 3 has high amount of variance which means that the data is very spread out.
 
 ## Deliverable 3 - T-Tests on suspension coils
 
+
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/first_t_test.png" width="600" >
+The means accorss all of the lots are very similar.
 
 
 
 ### Lot 1 T-Test
 
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_1.png" width="600" >
-
+The p-value here is 1 which means we can disregard the t-test.
 
 ### Lot 2 T-Test
 
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_2.png" width="600" >
 
+The p-value here is 0.61 which means we cannot fail or reject this hypothessi.
 
 ### Lot 3 T-Test
 
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/t_test_lot_3.png" width="600" >
 
+The p-value here is very small which means we can fall or reject this hypothesis.
 
 ## Deliverable 4 - Study Design: MechaCar vs Competition
 
+Testing the safety of the MechaCar vs its competition.
 
-**H0 (Null Hypothesis):** MechaCar's vehicle safety ratings are no different from its competitors 
+**H0 (Null Hypothesis):** MechaCar's vehicle safety ratings are the same as its competitions
 
-**Ha (Alternative Hypothesis):** MechaCar's vehicle safety ratings are different from its competitors 
+**Ha (Alternative Hypothesis):** MechaCar's vehicle safety ratings are not the same as its competitors.
 
