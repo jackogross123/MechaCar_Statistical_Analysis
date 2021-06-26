@@ -26,15 +26,15 @@ mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (
 
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/total_summary.png" width="600" >
 
+Lot 3 has high amount of variance which means that the data is very spread out.
 
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png" width="600" >
 
 
-## Deliverable 3 - T-Tests on Suspension Coils
-
-
+## Deliverable 3 - T-Tests on suspension coils
 
 <img src="https://github.com/jackogross123/MechaCar_Statistical_Analysis/blob/main/Images/first_t_test.png" width="600" >
+
 
 
 ### Lot 1 T-Test
